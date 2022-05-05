@@ -1,11 +1,9 @@
-# sample
-
-A new Flutter project.
+# Todo App
+  - A simple flutter todo app.
+  - Created as an example app for flutter short discussion in discord.
+  - This app uses provider for its statemanagement.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
